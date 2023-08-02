@@ -1,2 +1,2 @@
 # Clock
-Code for arduino clock
+Code for arduino clock made with PlatformIO
